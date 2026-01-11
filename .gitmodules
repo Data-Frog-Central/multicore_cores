@@ -469,3 +469,6 @@
 [submodule "tamalibretro"]
 	path = tamalibretro
 	url = https://github.com/madcock/tamalibretro
+[submodule "libretro-mamenummacwaytausend"]
+	path = libretro-mamenummacwaytausend
+	url = https://github.com/Data-Frog-Central/libretro-mamenummacwaytausend
