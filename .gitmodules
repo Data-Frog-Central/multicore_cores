@@ -50,14 +50,6 @@
 	path = libretro-tgbdual
 	url = https://github.com/madcock/libretro-tgbdual
 	branch = master
-[submodule "snes9x2002"]
-	path = snes9x2002
-	url = https://github.com/madcock/snes9x2002
-	branch = master
-[submodule "snes9x2005"]
-	path = snes9x2005
-	url = https://github.com/madcock/snes9x2005
-	branch = master
 [submodule "Gearsystem"]
 	path = Gearsystem
 	url = https://github.com/madcock/Gearsystem
@@ -250,10 +242,6 @@
 	path = libretro-uae
 	url = https://github.com/madcock/libretro-uae
 	branch = master
-[submodule "libretro-frodo"]
-	path = libretro-frodo
-	url = https://github.com/madcock/libretro-frodo
-	branch = master
 [submodule "dosbox-svn"]
 	path = dosbox-svn
 	url = https://github.com/madcock/dosbox-svn
@@ -310,12 +298,6 @@
 	path = libretro-uzem
 	url = https://github.com/madcock/libretro-uzem
 	branch = master
-[submodule "fake-08"]
-	path = fake-08
-	url = https://github.com/madcock/fake-08
-[submodule "QuickNES_Core"]
-	path = QuickNES_Core
-	url = https://github.com/madcock/QuickNES_Core
 [submodule "nestopia"]
 	path = nestopia
 	url = https://github.com/madcock/nestopia
@@ -325,9 +307,6 @@
 [submodule "SameBoy"]
 	path = SameBoy
 	url = https://github.com/madcock/SameBoy
-[submodule "libretro-gambatte"]
-	path = libretro-gambatte
-	url = https://github.com/madcock/libretro-gambatte
 [submodule "libretro-minivmac"]
 	path = libretro-minivmac
 	url = https://github.com/madcock/libretro-minivmac
@@ -367,9 +346,6 @@
 [submodule "daphne"]
 	path = daphne
 	url = https://github.com/madcock/daphne
-[submodule "libretro-blueMSX"]
-	path = libretro-blueMSX
-	url = https://github.com/madcock/libretro-blueMSX
 [submodule "libretro-xrick"]
 	path = libretro-xrick
 	url = https://github.com/madcock/libretro-xrick
@@ -439,9 +415,6 @@
 [submodule "Gearboy"]
 	path = Gearboy
 	url = https://github.com/madcock/Gearboy
-[submodule "gpsp"]
-	path = gpsp
-	url = https://github.com/madcock/gpsp
 [submodule "dosbox-pure"]
 	path = dosbox-pure
 	url = https://github.com/madcock/dosbox-pure
@@ -463,12 +436,54 @@
 [submodule "libretro-stella2014"]
 	path = libretro-stella2014
 	url = https://github.com/madcock/libretro-stella2014
-[submodule "libretro-vice"]
-	path = libretro-vice
-	url = https://github.com/madcock/libretro-vice
 [submodule "tamalibretro"]
 	path = tamalibretro
 	url = https://github.com/madcock/tamalibretro
 [submodule "libretro-mamenummacwaytausend"]
 	path = libretro-mamenummacwaytausend
 	url = https://github.com/Data-Frog-Central/libretro-mamenummacwaytausend
+[submodule "js2000"]
+	path = custom-apps/js2000
+	url = https://github.com/Data-Frog-Central/js2000
+[submodule "FrogUI"]
+	path = custom-apps/FrogUI
+	url = https://github.com/Data-Frog-Central/FrogUI
+[submodule "sf2000-video-player"]
+	path = custom-apps/sf2000-video-player
+	url = https://github.com/Data-Frog-Central/sf2000-video-player
+[submodule "froggyMP3"]
+	path = custom-apps/froggyMP3
+	url = https://github.com/Data-Frog-Central/froggyMP3
+[submodule "gpsp"]
+	path = working-cores/gpsp
+	url = https://github.com/Data-Frog-Central/gpsp
+[submodule "gpsp-ff"]
+	path = working-cores/gpsp-ff
+	url = https://github.com/Data-Frog-Central/gpsp-ff
+[submodule "libretro-blueMSX"]
+	path = working-cores/libretro-blueMSX
+	url = https://github.com/Data-Frog-Central/libretro-blueMSX
+[submodule "fake-08"]
+	path = working-cores/fake-08
+	url = https://github.com/Data-Frog-Central/fake-08
+[submodule "libretro-frodo"]
+	path = working-cores/libretro-frodo
+	url = https://github.com/Data-Frog-Central/libretro-frodo
+[submodule "QuickNES_Core"]
+	path = working-cores/QuickNES_Core
+	url = https://github.com/Data-Frog-Central/QuickNES_Core
+[submodule "libretro-gambatte"]
+	path = working-cores/libretro-gambatte
+	url = https://github.com/Data-Frog-Central/libretro-gambatte
+[submodule "snes9x2002"]
+	path = working-cores/snes9x2002
+	url = https://github.com/Data-Frog-Central/snes9x2002
+[submodule "snes9x2005"]
+	path = working-cores/snes9x2005
+	url = https://github.com/Data-Frog-Central/snes9x2005
+[submodule "libretro-vice"]
+	path = working-cores/libretro-vice
+	url = https://github.com/Data-Frog-Central/libretro-vice
+[submodule "sf2000-qpsx-playstation-emulator"]
+	path = working-cores/sf2000-qpsx-playstation-emulator
+	url = https://github.com/Data-Frog-Central/sf2000-qpsx-playstation-emulator
