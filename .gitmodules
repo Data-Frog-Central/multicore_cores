@@ -481,9 +481,9 @@
 [submodule "snes9x2005"]
 	path = working-cores/snes9x2005
 	url = https://github.com/Data-Frog-Central/snes9x2005
-[submodule "libretro-vice"]
-	path = working-cores/libretro-vice
-	url = https://github.com/Data-Frog-Central/libretro-vice
 [submodule "sf2000-qpsx-playstation-emulator"]
 	path = working-cores/sf2000-qpsx-playstation-emulator
 	url = https://github.com/Data-Frog-Central/sf2000-qpsx-playstation-emulator
+[submodule "libretro-vice"]
+	path = working-cores/libretro-vice
+	url = https://github.com/Data-Frog-Central/libretro-vice
