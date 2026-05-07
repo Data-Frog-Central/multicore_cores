@@ -272,7 +272,7 @@
 	branch = master
 [submodule "ecwolf"]
 	path = ecwolf
-	url = https://github.com/madcock/ecwolf
+	url = https://github.com/Data-Frog-Central/ecwolf
 	branch = master
 [submodule "libretro-beetle-psx"]
 	path = libretro-beetle-psx
@@ -296,7 +296,7 @@
 	branch = master
 [submodule "nestopia"]
 	path = nestopia
-	url = https://github.com/madcock/nestopia
+	url = https://github.com/Data-Frog-Central/nestopia
 [submodule "libretro-vbam"]
 	path = libretro-vbam
 	url = https://github.com/madcock/libretro-vbam
@@ -332,7 +332,7 @@
 	url = https://github.com/madcock/libretro-quasi88
 [submodule "tyrquake"]
 	path = tyrquake
-	url = https://github.com/madcock/tyrquake
+	url = https://github.com/Data-Frog-Central/libretro-tyrquake
 [submodule "libretro-fmsx"]
 	path = libretro-fmsx
 	url = https://github.com/madcock/libretro-fmsx
